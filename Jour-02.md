@@ -12,29 +12,35 @@
 #### Environnement de travail
 
 * [ ] Configuration de son environnement de travail
-  * [ ] Mise à jour OS (Linux, Windows, Mac)
-  * [ ] Installation (Discord)
-  * [ ] Installation navigateur (Developper Edition)
-  * [ ] Création et configuration Mail pro 
+  * [x] Mise à jour OS (Linux, Windows, Mac)
+  * [x] Installation (Discord)
+  * [x] Installation navigateur (Developper Edition)
+  * [x] Création et configuration Mail pro 
   * [ ] Création et configuration Twitter pro 
 
 * [ ] Découverte de Linux :
   * [ ] Savoir ce qu'est Linux
+  <!-- Linux est un système d'exploitation open source -->
   * [ ] Savoir ce qu'est une distribution Linux
   * [ ] Comprendre l'arborescence de Linux
 
 * [ ] Découverte du Terminal : 
   * [ ] Comprendre la différence entre une interface en ligne de commande et une interface graphique
-  * [ ] Savoir ce qu'est un Shell, quelle différence entre BASH et ZSH 
+  * [x] Savoir ce qu'est un Shell, quelle différence entre BASH et ZSH 
+  <!-- un SHELL est un terminal de commande
+  BASH est une interface de lignes de commandes 
+  ZSH est égalemejt une interfaces de lignes de commandes comme BASH mais permet en plus, la prise en charge de thême et de plugins -->
   * [ ] Comprendre comment fonctionne un shell
   * [ ] Comprendre le fonctionnement des alias
-  * [ ] Comprendre le fonctionnement et l'utilité des commandes de bases (cd, ls, rm, rmdir, mv, cp, mkdir)
+  * [x] Comprendre le fonctionnement et l'utilité des commandes de bases (cd, ls, rm, rmdir, mv, cp, mkdir)
+  <!-- les utilités de commandes de bases permettent de naviguer, déplacer, vider ou supprimer des fichiers et des dossiers directement depuis le SHELL-->
   * [ ] Comprendre le principe des options dans les commandes
 
 * [ ] Choix de son éditeur, configuration et customisation
 * [ ] Choix / installation d'un terminal (Linux, Mac ou Windows)
 
 * [ ] Comprendre l'intérêt des raccourcis clavier
+<!-- les raccourcis clavier permettent une facilité, une rapidité et un gain de temps au travail -->
 * [ ] Découverte des raccourcis clavier Linux : 
   * [ ] Navigateur (fenêtres, onglets, navigation, etc …)
   * [ ] Terminal (fenêtres, onglets, commandes)
