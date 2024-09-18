@@ -26,17 +26,21 @@
 
 * [ ] Découverte du Terminal : 
   * [ ] Comprendre la différence entre une interface en ligne de commande et une interface graphique
+  <!-- derriere une interface graphique il y'a une ligne de commande et un chemin -->
   * [x] Savoir ce qu'est un Shell, quelle différence entre BASH et ZSH 
-  <!-- un SHELL est un terminal de commande
+  <!-- un SHELL est l'interface en ligne de commande par défaut (terminal)
   BASH est une interface de lignes de commandes 
   ZSH est égalemejt une interfaces de lignes de commandes comme BASH mais permet en plus, la prise en charge de thême et de plugins -->
   * [ ] Comprendre comment fonctionne un shell
+  <!-- il interprète les lignes de commandes entre l'utilisateur et la machine (noyau) -->
   * [ ] Comprendre le fonctionnement des alias
+  <!-- un ALIAS permet de raccourcir une ligne de commande -->
   * [x] Comprendre le fonctionnement et l'utilité des commandes de bases (cd, ls, rm, rmdir, mv, cp, mkdir)
-  <!-- les utilités de commandes de bases permettent de naviguer, déplacer, vider ou supprimer des fichiers et des dossiers directement depuis le SHELL-->
-  * [ ] Comprendre le principe des options dans les commandes
+  <!-- les utilités de commandes de bases permettent de naviguer, déplacer ou supprimer des fichiers et des dossiers directement depuis le SHELL-->
+  * [x] Comprendre le principe des options dans les commandes
+  <!-- permet d'ajouter une option à la commande de base comme savoir préciemment ce que contient un fichier etc -->
 
-* [ ] Choix de son éditeur, configuration et customisation
+* [x] Choix de son éditeur, configuration et customisation
 * [ ] Choix / installation d'un terminal (Linux, Mac ou Windows)
 
 * [ ] Comprendre l'intérêt des raccourcis clavier
@@ -46,3 +50,5 @@
   * [ ] Terminal (fenêtres, onglets, commandes)
   * [ ] Découverte et installation de Albert (Linux) / Alfred (Mac)
 
+<!-- CLI : command line interface -->
+<!-- GUI : graphical user interface -->
