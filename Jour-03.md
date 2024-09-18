@@ -28,6 +28,9 @@ Seulement si le wargame bandit est au niveau 5 minimum :
 - [ ] Faire ses première manipulations de versionning en CLI only (init, push, add, commit, status, pull)
 
 * [ ] Comprendre les termes "local", "origin" et "upstream"
+<!-- local signifit ma machine
+origin signifit 
+upstream signifit  -->
 * [ ] Faire ses premiers commits sur les daily objectives (plusieurs commits par jour pour les débutants)
 * [ ] Faire ses premiers pushs des daily-objectives sur son compte Github
 * [ ] Découvrir les conventions de nommage de son versionning avec la convention Angular :
@@ -37,6 +40,8 @@ Seulement si le wargame bandit est au niveau 5 minimum :
 * [ ] Comprendre le fonctionnement des branches dans Git :
   - [ ] Lister, changer, créer, supprimer des branches
   - [ ] Quelle est la différence entre `Git switch` et `Git checkout`
+  <!-- git switch permet de changer de branche
+  git checkout permet de créer une branche -->
 * [ ] Comprendre le merge dans Git
   - [ ] Comprendre le "fast forward"
   - [ ] Quelle est la différence entre un "commit" et un "merge commit" ?
@@ -44,7 +49,7 @@ Seulement si le wargame bandit est au niveau 5 minimum :
 #### Github
 
 - [ ] Pimper son profile Github (belle du village)
-- [ ] Configurer un tunnel SSH entre son local et son Github
+- [x] Configurer un tunnel SSH entre son local et son Github
 - [ ] Découvrir l'interface de Github :
   - [ ] Pull Requests
   - [ ] Branches
