@@ -14,20 +14,30 @@ Seulement si le wargame bandit est au niveau 5 minimum :
 - [ ] Comprendre le fonctionnement de Git
   - [ ] Comprendre le staging de Git
   - [ ] Comprendre le fonctionnent et l'utilité des commandes de bases de Git :
-    - [ ] git init
-    - [ ] git add
-    - [ ] git status
-    - [ ] git commit
-    - [ ] git pull
-    - [ ] git push
-    - [ ] git clone
+    - [x] git init
+    <!-- permet d'initialiser un dépot git -->
+    - [x] git clone
+    <!-- permet de cloner/duppliquer un projet sur le local -->
+    - [x] git status
+    <!-- permet de savoir quelles modifications sont en cours -->
+    - [x] git pull
+    <!-- permet de récupérer les modifications apportées au fichier -->
+    - [x] staging area
+    <!-- zone intermédiaire pour préparer les modifications avant de les enregistrer -->
+    - [x] git add
+    <!-- permet d'ajouter les modifications du fichier dans le staging area  -->
+    - [x] git commit
+    <!-- permet d'enregistrer les modifications ajoutées au staging area après un git add -->
+    - [x] git push
+    <!-- permet d'envoyer les modifications au fichier -->
     - [ ] git remote
+
 - [ ] Faire le parcours Git-it pour les débutants (Nodeschool.io)
 - [ ] Faire ses premiers commits sur les daily objectives
 - [ ] Faire ses premiers pushs des daily-objectives sur son compte Github
 - [ ] Faire ses première manipulations de versionning en CLI only (init, push, add, commit, status, pull)
 
-* [ ] Comprendre les termes "local", "origin" et "upstream"
+* [ ] Comprendre les termes "local", "origin", "main" et "upstream"
 <!-- local signifit ma machine
 origin signifit 
 upstream signifit  -->
@@ -56,3 +66,5 @@ upstream signifit  -->
   - [ ] Issues
   - [ ] Settings projet
   - [ ] Settings profile
+
+  <!-- git est rapide car il enregistre que les modifications apportées au projet au lieu de recréer complétement le fichier -->
