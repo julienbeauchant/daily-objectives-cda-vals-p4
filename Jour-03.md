@@ -8,14 +8,14 @@ Seulement si le wargame bandit est au niveau 5 minimum :
 
 #### Git
 
-- [ ] Création de compte + configuration Github
-- [ ] Installation et configuration de Git
+- [x] Création de compte + configuration Github
+- [x] Installation et configuration de Git
 - [ ] Comprendre le versionning
 - [ ] Comprendre le fonctionnement de Git
   - [ ] Comprendre le staging de Git
   - [ ] Comprendre le fonctionnent et l'utilité des commandes de bases de Git :
     - [x] git init
-    <!-- permet d'initialiser un dépot git -->
+    <!-- permet d'initialiser un dépôt git -->
     - [x] git clone
     <!-- permet de cloner/duppliquer un projet sur le local -->
     - [x] git status
@@ -30,19 +30,23 @@ Seulement si le wargame bandit est au niveau 5 minimum :
     <!-- permet d'enregistrer les modifications ajoutées au staging area après un git add -->
     - [x] git push
     <!-- permet d'envoyer les modifications au fichier -->
-    - [ ] git remote
+    - [x] git remote
+    <!-- permet de gérer les connexions entre le dépôt local et les dépôt distants -->
+    - [x] git merge
+    <!-- permet de combiner les modifications de branches dans le dépôt local -->
 
 - [ ] Faire le parcours Git-it pour les débutants (Nodeschool.io)
-- [ ] Faire ses premiers commits sur les daily objectives
-- [ ] Faire ses premiers pushs des daily-objectives sur son compte Github
-- [ ] Faire ses première manipulations de versionning en CLI only (init, push, add, commit, status, pull)
+- [x] Faire ses premiers commits sur les daily objectives
+- [x] Faire ses premiers pushs des daily-objectives sur son compte Github
+- [x] Faire ses première manipulations de versionning en CLI only (init, push, add, commit, status, pull)
 
-* [ ] Comprendre les termes "local", "origin", "main" et "upstream"
-<!-- local signifit ma machine
-origin signifit 
-upstream signifit  -->
-* [ ] Faire ses premiers commits sur les daily objectives (plusieurs commits par jour pour les débutants)
-* [ ] Faire ses premiers pushs des daily-objectives sur son compte Github
+* [x] Comprendre les termes "local", "origin", "main" et "upstream"
+  <!-- local signifit ma machine -->
+  <!-- origin est le nom utilisé pour faire référence au dépôt distant principal associé à mon dépot local -->
+  <!-- main est la branche principale d'un dépot -->
+  <!-- pour le cas du fork, upstream est le dépot d'origine qui a été forké -->
+* [x] Faire ses premiers commits sur les daily objectives (plusieurs commits par jour pour les débutants)
+* [x] Faire ses premiers pushs des daily-objectives sur son compte Github
 * [ ] Découvrir les conventions de nommage de son versionning avec la convention Angular :
   - [ ] https://github.com/angular/angular/blob/main/CONTRIBUTING.md#-commit-message-format
   - [ ] https://www.conventionalcommits.org/fr/v1.0.0/
@@ -54,7 +58,9 @@ upstream signifit  -->
   git checkout permet de créer une branche -->
 * [ ] Comprendre le merge dans Git
   - [ ] Comprendre le "fast forward"
-  - [ ] Quelle est la différence entre un "commit" et un "merge commit" ?
+  - [x] Quelle est la différence entre un "commit" et un "merge commit" ?
+  <!-- un commit est un enregistrement instantané du projet -->
+  <!-- un merge commit enregistre l'intégration des modifications de branches lorsque celles-ci fusionnent ( merge ) -->
 
 #### Github
 
@@ -62,7 +68,8 @@ upstream signifit  -->
 - [x] Configurer un tunnel SSH entre son local et son Github
 - [ ] Découvrir l'interface de Github :
   - [ ] Pull Requests
-  - [ ] Branches
+  - [x] Branches
+  <!-- le système de branches permet de travailler sur un même projet mais séparemment -->
   - [ ] Issues
   - [ ] Settings projet
   - [ ] Settings profile

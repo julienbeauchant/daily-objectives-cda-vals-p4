@@ -9,21 +9,45 @@
 
 - [ ] Découverte de Github CLI `gh`
 
-  - [ ] Créer son premier repo Github (local + origin)
+  - [x] Créer son premier repo Github (local + origin)
 
 - [ ] Découverte de Gitflow
 
+
 ### Markdown :
 
-- [ ] Comprendre l'intérêt du Markdown
+- [x] Comprendre l'intérêt du Markdown
+<!-- le markdown (.md ) est un langague de balisage utilisé pour formater du texte comme pour les README et être converti en HTML -->
 - [ ] Découvrir les balises de bases :
-  - [ ] Titres
-  - [ ] Images
-  - [ ] Listes
-  - [ ] Formatage de texte (italique, souligné, gras)
-  - [ ] Code
-  - [ ] Citations
-  - [ ] Tableaux
-  - [ ] Liens
+  - [x] Titres
+  <!-- # Titre de niveau 1
+  ## Titre de niveau 2
+  ### Titre de niveau 3 -->
+  - [x] Images
+  <!-- ![Texte alternatif](http://url-de-l-image.com/image.jpg) -->
+  - [x] Listes
+  <!-- liste a puces : - Item 1
+                      - Item 2 
+                      - Sous-item
+
+  liste numérotée : 1. Premier item
+                    2. Deuxième item -->
+  - [x] Formatage de texte (italique, souligné, gras)
+  <!-- **Texte en gras**  
+  *Texte en italique* -->
+  - [x] Code
+  <!-- code en ligne : `code en ligne`
+  code en bloc : ```python
+                    def hello():
+                    print("Hello, world!")``` -->
+  - [x] Citations
+  <!-- > Ceci est une citation. -->
+  - [x] Tableaux
+  <!-- | En-tête 1 | En-tête 2 |
+  |-----------|-----------|
+  | Contenu 1 | Contenu 2 |
+  | Contenu 3 | Contenu 4 | -->
+  - [x] Liens
+  <!-- [Texte du lien](http://exemple.com) -->
 - [ ] Faire le parcours "how-to-markdown" (Nodeschool.io)
 - [ ] Rédaction en Markdown du lexique de la promo ainsi que des cheat sheets (Terminal, Git, Github CLI, Gitflow), travail en groupe en respectant les bests practices et conventions par pull-request uniquement (2 reviews minimums avant merge)
