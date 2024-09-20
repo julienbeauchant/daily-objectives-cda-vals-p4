@@ -7,7 +7,8 @@
 
 #### Github + Gitflow
 
-- [ ] Découverte de Github CLI `gh`
+- [ ] Découverte de Github CLI ( commande line interface ) `gh`
+<!-- permet de gérer des dépôts GitHub et des workflows directement depuis le terminal sans avoir à passer par l’interface graphique de GitHub -->
 
   - [x] Créer son premier repo Github (local + origin)
 
@@ -18,7 +19,7 @@
 
 - [x] Comprendre l'intérêt du Markdown
 <!-- le markdown (.md ) est un langague de balisage utilisé pour formater du texte comme pour les README et être converti en HTML -->
-- [ ] Découvrir les balises de bases :
+- [x] Découvrir les balises de bases :
   - [x] Titres
   <!-- # Titre de niveau 1
   ## Titre de niveau 2
@@ -26,15 +27,15 @@
   - [x] Images
   <!-- ![Texte alternatif](http://url-de-l-image.com/image.jpg) -->
   - [x] Listes
-  <!-- liste a puces : - Item 1
-                      - Item 2 
-                      - Sous-item
+  <!-- liste a puces : * Item 1
+                      * Item 2 
+                      * Sous-item
 
   liste numérotée : 1. Premier item
                     2. Deuxième item -->
   - [x] Formatage de texte (italique, souligné, gras)
-  <!-- **Texte en gras**  
-  *Texte en italique* -->
+  <!-- *Texte en gras*  
+  -Texte en italique- -->
   - [x] Code
   <!-- code en ligne : `code en ligne`
   code en bloc : ```python

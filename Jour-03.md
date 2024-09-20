@@ -60,14 +60,15 @@ Seulement si le wargame bandit est au niveau 5 minimum :
   - [ ] Comprendre le "fast forward"
   - [x] Quelle est la différence entre un "commit" et un "merge commit" ?
   <!-- un commit est un enregistrement instantané du projet -->
-  <!-- un merge commit enregistre l'intégration des modifications de branches lorsque celles-ci fusionnent ( merge ) -->
+  <!-- un merge commit enregistre l'intégration des modifications de branches lorsque celles-ci fusionnent et ( créer un nouveau commit ) ( merge ) -->
 
 #### Github
 
 - [ ] Pimper son profile Github (belle du village)
 - [x] Configurer un tunnel SSH entre son local et son Github
 - [ ] Découvrir l'interface de Github :
-  - [ ] Pull Requests
+  - [x] Pull Requests
+  <!-- c'est une demande pour que des modifications effectuées sur une branche soient intégrées dans une autre, à savoir que les commit d'une branche restent en mémoire et même après la fusion -->
   - [x] Branches
   <!-- le système de branches permet de travailler sur un même projet mais séparemment -->
   - [ ] Issues
