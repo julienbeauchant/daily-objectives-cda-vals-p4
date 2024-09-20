@@ -10,10 +10,13 @@ Seulement si le wargame bandit est au niveau 5 minimum :
 
 - [x] Création de compte + configuration Github
 - [x] Installation et configuration de Git
-- [ ] Comprendre le versionning
+- [x] Comprendre le versionning
+<!-- le versionning permet de sauvgarder au fur et à mesure son projet 
+tout en gardant une trace des anciennes sauvegardes en cas de besoin -->
 - [ ] Comprendre le fonctionnement de Git
+<!-- git utilise le versionning -->
   - [ ] Comprendre le staging de Git
-  - [ ] Comprendre le fonctionnent et l'utilité des commandes de bases de Git :
+  - [x] Comprendre le fonctionnent et l'utilité des commandes de bases de Git :
     - [x] git init
     <!-- permet d'initialiser un dépôt git -->
     - [x] git clone
@@ -51,12 +54,21 @@ Seulement si le wargame bandit est au niveau 5 minimum :
   - [ ] https://github.com/angular/angular/blob/main/CONTRIBUTING.md#-commit-message-format
   - [ ] https://www.conventionalcommits.org/fr/v1.0.0/
   - [ ] Renommer son dernier commit en respectant cette convention
-* [ ] Comprendre le fonctionnement des branches dans Git :
-  - [ ] Lister, changer, créer, supprimer des branches
-  - [ ] Quelle est la différence entre `Git switch` et `Git checkout`
-  <!-- git switch permet de changer de branche
-  git checkout permet de créer une branche -->
-* [ ] Comprendre le merge dans Git
+* [x] Comprendre le fonctionnement des branches dans Git :
+<!-- les branches ne sont pas créees pour une personne mais plutôt pour une fonctionnalité -->
+  - [x] Lister, changer, créer, supprimer des branches
+  <!-- lister les branches local : git branch -->
+  <!-- changer de branche : git switch nom-de-la-branche -->
+  <!-- créer une branche : git branch nom-de-la-branche -->
+  <!-- supprimer une branche : 
+    - si la branche a été fusionnée et donc sans perdre les modifications : git branch -d nom-de-la-branche
+    - si la branche n'a pas été fusionnée et donc sans garder les modifications : git branch -D nom-de-la-branche  -->
+  - [x] Quelle est la différence entre `Git switch` et `Git checkout`
+  <!-- git switch permet de changer de branche -->
+  <!-- git checkout permet de créer et changer de branche  -->
+  <!-- switch sera préféré car son action et simple et clair alors que checkout est plus confut car plusieurs usages  -->
+* [x] Comprendre le merge dans Git
+<!-- le merge est le fait de fusionner -->
   - [ ] Comprendre le "fast forward"
   - [x] Quelle est la différence entre un "commit" et un "merge commit" ?
   <!-- un commit est un enregistrement instantané du projet -->

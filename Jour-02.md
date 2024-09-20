@@ -5,6 +5,7 @@
 
 * [ ] Comprendre le métier de développeur, aperçu sur le mindset du dev
 * [ ] Élaboration d’une stratégie pour l’anglais
+<!-- films et series en anglais, convertir ses appareils en anglais ? -->
 * [ ] Savoir comment aborder la gestion de son temps
 * [ ] Savoir comment poser des questions
 * [ ] Savoir comment aborder un problème
@@ -19,7 +20,7 @@
   * [ ] Création et configuration Twitter pro 
 
 * [ ] Découverte de Linux :
-  * [ ] Savoir ce qu'est Linux
+  * [x] Savoir ce qu'est Linux
   <!-- Linux est un système d'exploitation open source -->
   * [ ] Savoir ce qu'est une distribution Linux
   * [ ] Comprendre l'arborescence de Linux
@@ -30,10 +31,10 @@
   * [x] Savoir ce qu'est un Shell, quelle différence entre BASH et ZSH 
   <!-- un SHELL est l'interface en ligne de commande par défaut (terminal)
   BASH est une interface de lignes de commandes 
-  ZSH est égalemejt une interfaces de lignes de commandes comme BASH mais permet en plus, la prise en charge de thême et de plugins -->
-  * [ ] Comprendre comment fonctionne un shell
+  ZSH est également une interfaces en lignes de commandes comme BASH mais permet en plus, la prise en charge de thême et de plugins -->
+  * [x] Comprendre comment fonctionne un shell
   <!-- il interprète les lignes de commandes entre l'utilisateur et la machine (noyau) -->
-  * [ ] Comprendre le fonctionnement des alias
+  * [x] Comprendre le fonctionnement des alias
   <!-- un ALIAS permet de raccourcir une ligne de commande -->
   * [x] Comprendre le fonctionnement et l'utilité des commandes de bases (cd, ls, rm, rmdir, mv, cp, mkdir)
   <!-- les utilités de commandes de bases permettent de naviguer, déplacer ou supprimer des fichiers et des dossiers directement depuis le SHELL-->
@@ -43,8 +44,8 @@
 * [x] Choix de son éditeur, configuration et customisation
 * [ ] Choix / installation d'un terminal (Linux, Mac ou Windows)
 
-* [ ] Comprendre l'intérêt des raccourcis clavier
-<!-- les raccourcis clavier permettent une facilité, une rapidité et un gain de temps au travail -->
+* [x] Comprendre l'intérêt des raccourcis clavier
+<!-- les raccourcis clavier permettent une facilité, une rapidité et donc un gain de temps au travail -->
 * [ ] Découverte des raccourcis clavier Linux : 
   * [ ] Navigateur (fenêtres, onglets, navigation, etc …)
   * [ ] Terminal (fenêtres, onglets, commandes)

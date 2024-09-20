@@ -7,12 +7,14 @@
 
 #### Github + Gitflow
 
-- [ ] Découverte de Github CLI ( commande line interface ) `gh`
-<!-- permet de gérer des dépôts GitHub et des workflows directement depuis le terminal sans avoir à passer par l’interface graphique de GitHub -->
+- [x] Découverte de Github CLI ( commande line interface ) `gh`
+<!-- github CLI permet de gérer des dépôts GitHub et des workflows directement depuis le terminal sans avoir à passer par l’interface graphique de GitHub -->
 
   - [x] Créer son premier repo Github (local + origin)
 
-- [ ] Découverte de Gitflow
+- [x] Découverte de Gitflow
+<!-- GitFlow est une "méthode de travail". C'est un model de gestion de branches dans git 
+il permet d'organiser le développement en équipe et de gérer les différentes phase d'un projet -->
 
 
 ### Markdown :
