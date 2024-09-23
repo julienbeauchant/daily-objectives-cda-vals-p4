@@ -9,7 +9,8 @@
 - [x] Comprendre le principe de "Pull Request"
 <!-- pull request permet une sécurité supplémentaire car il faut que le push soit accepté avant de fusionner -->
 - [ ] Comprendre le rebase dans Git (quelle différence avec le merge ?)
-<!-- le git rebase  -->
+<!-- le git rebase fusionne définitivement les branches entre elles pour n'en former qu'une et les time-code des commit de la branche
+qui fusionne sont reboot -->
 <!-- Le git merge combine deux branches en créant un nouveau commit de fusion, appelé merge commit. 
 Il intègre les modifications d’une branche dans une autre, en conservant tout l’historique des deux branches -->
 - [ ] Ajouter ce repo en upstream dans les remotes sur son local après l'avoir forké et cloné
@@ -17,6 +18,7 @@ Il intègre les modifications d’une branche dans une autre, en conservant tout
 <!-- git stash permet de mettre de côter un commit si on ne le souhaite pas le merge directement -->
 - [ ] Créer un cheat sheet sur Git (en groupe en respectant les bests practices et Gitflow)
 - [ ] Découverte de LazyGit
+<!-- lazygit permet de simplifier les commandes git -->
   - [ ] Installation et configuration
   - [ ] Intégration dans son editeur / workflow
   <!-- le terme workflow signifit les étapes / le processus à suivre pour accomplir une tâche
@@ -27,7 +29,8 @@ Il intègre les modifications d’une branche dans une autre, en conservant tout
 <!-- git pull permet de récupérer les nouvelles modifications apportées au projet puis les fusionnent à la branche locale actuelle -->
 <!-- git fetch permet de récupérer les modifications apportées au projet mais ne les appliquent pas à la branche locale
     ( à la manière d'un strash mais inversé ) -->
-  - [ ] À quoi sert la commande `git fetch —prune`
+  - [ ] À quoi sert la commande `git fetch --prune`
+  <!-- permet de nettoyer les fetch et de synchronisé le repo local avec le repo distant -->
   - [ ] Comment configurer mon git pour que ce soit fait automatiquement ?
 - [ ] Configurer son git :
   - [ ] Editeur

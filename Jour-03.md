@@ -70,6 +70,7 @@ tout en gardant une trace des anciennes sauvegardes en cas de besoin -->
 * [x] Comprendre le merge dans Git
 <!-- le merge est le fait de fusionner -->
   - [ ] Comprendre le "fast forward"
+  <!-- le fast forward signifit un bon sur un commit -->
   - [x] Quelle est la différence entre un "commit" et un "merge commit" ?
   <!-- un commit est un enregistrement instantané du projet -->
   <!-- un merge commit enregistre l'intégration des modifications de branches lorsque celles-ci fusionnent et ( créer un nouveau commit ) ( merge ) -->
