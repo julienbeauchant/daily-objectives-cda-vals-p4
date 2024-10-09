@@ -52,3 +52,13 @@
 <!-- rituel = "réunion" -->
 <!-- sprint =  -->
 <!-- daily meeting ?? -->
+
+
+<!-- 
+- sprint = délais ( 1 à 4 semaines )
+- un sprint contient des tickets dont l'estimation de temps est gérée par l'équipe de développement
+- rituel = réunion
+    - sprint planning ( au debut de chaque sprint )
+    - daily sprint ( tous les jours )
+    - sprint review = ( à la fin de chaque sprint ) 
+    - sprint retrospetive ( a la fin de chaque sprint review )  -->

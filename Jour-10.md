@@ -26,3 +26,8 @@
   - [ ] GitHub Project
   - [ ] Trello
   - [ ] Jira
+
+  <!-- D = drop -->
+  <!-- A = add -->
+  <!-- K = keep -->
+  <!-- I = improve -->
