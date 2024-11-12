@@ -5,9 +5,12 @@
 ### SQL - DDL et DML
 
 - [ ] Data Definition Language (DDL)
+  - Quelles sont les spécificités de DDL ? 
   - [ ] Savoir créer avec CREATE
     - [ ] Base de données
+        - CREATE DATABASE my_database;
     - [ ] Table
+      - CREATE TABLE my_table;
     - [ ] Index
   - [ ] Savoir modifier avec ALTER
     - [ ] Savoir ajouter une colonne
@@ -23,6 +26,7 @@
     - [ ] CHECK
 
 - [ ] Data Manipulation Language (DML)
+  - C quoi DML ? 
   - [ ] Savoir insérer des données avec INSERT
     - [ ] Insertion simple
     - [ ] Insertion multiple
