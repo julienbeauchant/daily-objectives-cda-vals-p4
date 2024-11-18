@@ -22,7 +22,11 @@
   - [ ] Savoir identifier les DF élémentaires
   - [ ] Savoir identifier les DF composées
   - [ ] Savoir identifier les DF transitives
+<<<<<<< HEAD
 <br>
 - [ ] Le graphe des dépendances
   - [ ] Savoir construire un graphe des dépendances
   - [ ] Savoir valider un graphe des dépendances
+=======
+
+>>>>>>> 1302bf6a6490348bc6306558d4a9924e39d90dbb
