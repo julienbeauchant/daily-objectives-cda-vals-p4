@@ -14,19 +14,18 @@
   - [ ] Savoir identifier les anomalies de redondance
 <br>
 - [ ] Les formes normales
+  - **Les formes normales fonctionnent pas étapes, une étape ne peut pas commencer si la précédente n'a pas été faite.**
   - [ ] Comprendre la 1ère forme normale (1FN)
+    - **1NF :** La 1ère forme normale conciste à garantir que les données des attributs soit atomique et indivisible.  
+    **Exemple :** faire une colonne distincte entre nom et prénom.
   - [ ] Comprendre la 2ème forme normale (2FN)
+  **"un attribut non identifiant ne depend pas d'une partie de l'identifiant mais de tout l'identifiant".**
+    - **2NF :** La 2ème forme normale consiste à spliter les attributs qui dépendent partiellement de l'identifiant (clé). 
   - [ ] Comprendre la 3ème forme normale (3FN)
+  **"un attribut non identifiant ne depend pas d'un ou plusieurs attributs non-clé."**  
+    - **3NF :** La 3ème forme normale consiste à ce que tous les attributs dépendents inuquement et directement de l'identifiant (clé).
 <br>
 - [ ] Les dépendances fonctionnelles
   - [ ] Savoir identifier les DF élémentaires
   - [ ] Savoir identifier les DF composées
   - [ ] Savoir identifier les DF transitives
-<<<<<<< HEAD
-<br>
-- [ ] Le graphe des dépendances
-  - [ ] Savoir construire un graphe des dépendances
-  - [ ] Savoir valider un graphe des dépendances
-=======
-
->>>>>>> 1302bf6a6490348bc6306558d4a9924e39d90dbb
