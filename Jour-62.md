@@ -39,27 +39,31 @@
 <br>
 
   - **Avantages MERISE :**  
-    - **  
-    - **  
+    - *Approche adaptée à la gestion de projet dans les systèmes d’information*  
+    - *Clarté dans la séparation entre les étapes conceptuelles, organisationnelles et physiques*  
+    - *Facilité à modéliser les bases de données relationnelles*  
 <br>
 
   - **Inconvénients MERISE :**  
-    - **  
-    - **  
+    - *Limité aux systèmes d’information traditionnels*  
+    - *Moins flexible pour modéliser des systèmes orientés objet ou des architectures complexes*  
 <br>
 
   - **Avantages UML :**  
-    - **  
-    - **  
+    - *Langage universel et largement adopté*  
+    - *Capacité à modéliser des systèmes complexes, y compris orientés objet*  
+    - *Support de nombreux outils logiciels pour la conception et la documentation*  
 <br>
 
   - **Inconvénients UML :**  
-    - **  
-    - **  
+    - *Peut être complexe et intimidant pour les débutants*  
+    - *Nécessite une formation pour une utilisation optimale*  
 <br>
 
-- **Conclusion :** **  
+- **Conclusion :**  
+  - *MERISE est mieux adapté aux systèmes d'information traditionnels, tandis qu'UML offre une plus grande flexibilité et est orienté objet, ce qui le rend idéal pour les systèmes logiciels modernes.*  
 <br>
+
 
 ### ➤ Découverte des Diagrammes  
 
@@ -155,6 +159,69 @@
       - Diagramme d’objets  
       - Diagramme d’états  
       - Diagramme de composants  
+<br>
+
+  - **Diagramme d’objets :**  
+    - Interactions principales :  
+      - Diagramme de classes    
+      - Diagramme de séquence  
+      - Diagramme de communication    
+<br>
+
+  - **Diagramme de composants :**  
+    - Interactions principales :  
+      - Diagramme de déploiement    
+      - Diagramme de classes  
+      - Diagramme de séquence    
+<br>
+
+  - **Diagramme de déploiement :**  
+    - Interactions principales :  
+      - Diagramme de composants    
+      - Diagramme de classes  
+      - Diagramme de séquence    
+<br>
+
+  - **Diagramme d’états :**  
+    - Interactions principales :  
+      - Diagramme de classes    
+      - Diagramme de séquence   
+      - Diagramme de cas d’utilisation    
+<br>
+
+  - **Diagramme d’activités :**  
+    - Interactions principales :  
+      - Diagramme de cas d’utilisation    
+      - Diagramme de séquence   
+      - Diagramme d’états    
+<br>
+
+  - **Diagramme de séquence :**  
+    - Interactions principales :  
+      - Diagramme de classes    
+      - Diagramme de communication    
+      - Diagramme de cas d’utilisation    
+<br>
+
+  - **Diagramme de communication :**  
+    - Interactions principales :  
+      - Diagramme de séquence    
+      - Diagramme de classes    
+      - Diagramme d’objets    
+<br>
+
+  - **Diagramme global d’interactions :**  
+    - Interactions principales :  
+      - Diagramme de séquence    
+      - Diagramme de communication    
+      - Diagramme temporisation
+      - Diagramme de cas d’utilisation    
+<br>
+
+  - **Diagramme de temporisation :**  
+    - Interactions principales :  
+      - Diagramme de séquence    
+      - Diagramme de d’états        
 <br>
 
 ### ➤ Découverte des outils  
